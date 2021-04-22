@@ -5,7 +5,7 @@ title: JJ's Completed Timelines
 <h1> Completed Timelines </h1> 
 	<ul class="timelines">
 
-	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% for timelines in site.timelines %}
+	    <li><span>{{ timelines.date | date_to_string }}</span> » <a href="{{ timelines.url }}" title="{{ timelines.title }}">{{ timelines.title }}</a></li>
 	  {% endfor %}
 	</ul>
