@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: [blog]
 title: "First Post on the New Blog"
 date: 2021-04-20
 ---
