@@ -3,6 +3,7 @@ layout: post
 title: "Adventure Time: Stakes and How it relates to the Tarot"
 date: 2021-04-20
 ---
+
 ## Introduction
 "Stakes" the mini series that starts on season 7 episode 6 of Adventure Time kicks off with Marceline comptemplating her immortality and her exsistence as a vampire after an unfortunate situation of being stuck under a tree when her umbrella blows away into the sunlight, out of reach. She then heads to Bonibell to ask if she can cure her vampirism. The experiment ends up being a success, but in turn it brings back from the twice undead 5 of the most powerful vampires that marciline had previously slain hundreds of years earlier. The mini series goes through Marcy's struggle with dealing with her past as well as her new found mortality while simutaniously re-staking and absorbing the powers of her strongest enemies.
 
