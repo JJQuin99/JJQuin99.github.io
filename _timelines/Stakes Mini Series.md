@@ -41,6 +41,9 @@ The Fool is a mischevious, goofy, carefree character who has little worry for hi
 
 
 The characteristics of the fool as well as his abiility to fly is heavily symbolic of his card. The Fool is represented by the number 0 in the Tarot Deck and when Upright is associated with new beginnings, freedom, innocence, and spontinaity. These basic fundamentals of the card match up perfectly with the base representation of The Fool we see in the show. When reversed The Fool's associated meaning becomes, reckless, careless, distracted, naive, and foolish. All of these are also represented by The Fool in the show, most heavily noticed when he is about to die at marcelines hand (with little to no effort from marcy and no effort on The Fools part to escape) and he only responds by asking marceline to smell his feet and that she "won't regret it". These are his final words before being staked and his power of flight being absorbed.  His ability to Fly, and his freedom to fly anywhere, is symbolic not only of the card itself but when absorbed marks the start of Marecline's new journey.
+
+
 ![image](https://user-images.githubusercontent.com/77991423/116794835-37a44800-aa9e-11eb-8f5b-627e8a0b1623.png)
+
 
 The Fool is the first vampire Marceline slays in the stakes series and centuries prior, he was the first vampire marcy had adimintly tracked down in order to protect the humans who inhabited Ooo at the time. Both times marcy slays The Fool, it starts a new chapter in her life, the beginning of a new adventure for her. This lines up with the Upright meaning of The Fool which is also symbolized by the absorbtion of The Fool's power of flight, giving marcy freedom to fly away unharmed. The Reversed meaning of The Fool acturatly represents Marceline's mindset when she is first intruduced in the beginning of the show and while she was still a vampire. She was reckless and careless, not really considerate of mortals or what effect she had on their lifespan. 
