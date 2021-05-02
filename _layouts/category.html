@@ -13,7 +13,7 @@ layout: default
             {{ post.date | date: site.date_format }}
         {% else %}
             {{ post.date | date: "%b %-d, %Y" }}
-        {% endif %}
+        {% end %}
         </p>
           <a href="{{ post.url | relative_url }}" class="post-link">
             <h3 class="h1 post-title">
@@ -24,5 +24,6 @@ layout: default
               {{ post.excerpt }}
           </span>
         </div>
+    </div>
 </div>
 
