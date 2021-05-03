@@ -32,11 +32,4 @@ layout: default
   <p class="m-t-3 text-muted font-italic">
     <small>Posted{% if category_content %} in </small>{{ category_content }}<small>{% endif %}{{ tags_content }}</small>
   </p>
-</div><h1>{{ page.title }}</h1>
-<p class="meta">{{ page.date | date_to_string }}</p>
-
-<div class="post">
-  {{ content }}
 </div>
-
-<p id="post-meta">{{ tags_content }}</p>
