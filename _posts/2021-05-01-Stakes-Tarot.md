@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: timelines
+tags: [timelines]
 title: "Adventure Time: Stakes and How It Relates to the Tarot"
 date: 2021-04-20
 ---
